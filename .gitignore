@@ -1,0 +1,14 @@
+# Ignorar el PDF específico
+02-codigo_electoral_caba.pdf
+
+# Ignorar el archivo .env
+.env
+
+# Ignorar la carpeta de base vectorial (Chroma DB persistente)
+vector_db/
+
+# Ignorar archivos temporales de Gradio
+.gradio/
+
+# Checkpoints de Jupyter
+.ipynb_checkpoints/
