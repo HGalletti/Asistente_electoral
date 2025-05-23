@@ -10,8 +10,8 @@ El sistema está construido con técnicas de **Retrieval-Augmented Generation (R
 
 ElectoAI puede asistir a:
 
-- Jueces y autoridades de mesa
-- Fiscales partidarios
+- Jueces y autoridades de mesa  
+- Fiscales partidarios  
 - Ciudadanos que participan del proceso electoral
 
 **Ejemplos de consultas**:
@@ -25,11 +25,11 @@ ElectoAI puede asistir a:
 
 ## 🛠️ Tecnologías utilizadas
 
-- **LangChain** para la construcción del pipeline RAG
-- **Chroma** como vector store local
-- **HuggingFace embeddings** para codificar texto
-- **Gradio** como interfaz (opcional)
-- **Modelos LLM locales (como Mistral en Ollama)** o GPT vía OpenAI
+- **LangChain** para la construcción del pipeline RAG  
+- **Chroma** como vector store local  
+- **HuggingFace embeddings** para codificar texto  
+- **Gradio** como interfaz (opcional)  
+- **Modelos LLM locales (como Mistral en Ollama)** o GPT vía OpenAI  
 
 ---
 
@@ -46,9 +46,9 @@ ElectoAI puede asistir a:
    pip install -r requirements.txt
    ```
 
-3. Ejecutá la aplicación (por ejemplo, `app.py` o tu notebook principal):
-   ```bash
-   python app.py
+3. Abrí la notebook principal:
+   ```
+   Elecciones.ipynb
    ```
 
 > Asegurate de tener un archivo `.env` configurado si usás OpenAI.
@@ -64,7 +64,7 @@ ElectoAI puede asistir a:
 ├── .env                  # Claves de API y configuración local (no versionado)
 ├── requirements.txt      # Dependencias del proyecto
 ├── runtime.txt           # Versión de Python requerida
-└── app.py / notebook     # Script o notebook principal
+└── Elecciones.ipynb      # Notebook principal
 ```
 
 ---

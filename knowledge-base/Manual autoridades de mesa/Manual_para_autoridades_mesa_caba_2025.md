@@ -1,3 +1,20 @@
+---
+title: "Manual de Capacitación para Autoridades de Mesa"
+subtitle: "Elecciones 2025 - Ciudad Autónoma de Buenos Aires"
+---
+
+# Presentación
+
+Este manual tiene como objetivo brindar a las Autoridades de Mesa los conocimientos esenciales para desempeñar su función conforme a la normativa vigente. Se estructura en función de las tareas que deben desarrollarse durante la jornada electoral e incluye información práctica, representaciones gráficas de los materiales y documentos utilizados, y protocolos para gestionar situaciones imprevistas.
+
+# Cuándo votamos
+
+Las elecciones locales en la Ciudad Autónoma de Buenos Aires se realizarán en una fecha distinta a la de las elecciones nacionales. No habrá elecciones Primarias Abiertas, Simultáneas y Obligatorias (PASO). La jornada electoral se llevará a cabo el día domingo del mes de mayo de 2025.
+
+# Qué votamos
+
+Se elegirá una lista de candidatos/as a Diputados/as para la Legislatura de la CABA mediante el sistema de Boleta Única Electrónica (BUE). La lista estará compuesta por treinta (30) titulares y diez (10) suplentes. Los/as electos/as asumirán el 10 de diciembre de 2025.
+
 # Funciones de la Autoridad de Mesa
 
 Las Autoridades de Mesa son responsables de garantizar el normal desarrollo del acto electoral. Son designadas por el Tribunal Electoral y tienen como funciones:
@@ -124,3 +141,10 @@ Entregar al personal del Correo:
 - Bolsín con actas, padrones, sobres especiales
 - Sobre marrón con material sobrante
 - Firmar recibo correspondiente
+
+# Contacto Institucional
+
+- https://electoralcaba.gob.ar  
+- https://buenosaires.gob.ar/ige  
+- Email: ige@buenosaires.gob.ar  
+- Teléfonos: 5030-9700 Int. 4341 / 4011-1777
